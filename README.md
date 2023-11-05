@@ -1,23 +1,10 @@
 # Cube 3D
 
-[![NPM Package][npm]][npm-url]
-[![Build Size][build-size]][build-size-url]
-[![NPM Downloads][npm-downloads]][npmtrends-url]
-[![DeepScan][deepscan]][deepscan-url]
-[![Discord][discord]][discord-url]
+#### HTML 3D library
 
-#### JavaScript 3D library
-
-The aim of the project is to create an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current builds only include a WebGL renderer but WebGPU (experimental), SVG and CSS3D renderers are also available as addons.
+L’objectif du projet est de créer un site qui crée un cube en 3D facile a charger, multi-navigateurs.
 
 [Examples](https://threejs.org/examples/) &mdash;
-[Docs](https://threejs.org/docs/) &mdash;
-[Manual](https://threejs.org/manual/) &mdash;
-[Wiki](https://github.com/mrdoob/three.js/wiki) &mdash;
-[Migrating](https://github.com/mrdoob/three.js/wiki/Migration-Guide) &mdash;
-[Questions](https://stackoverflow.com/questions/tagged/three.js) &mdash;
-[Forum](https://discourse.threejs.org/) &mdash;
-[Discord](https://discord.gg/56GBJwAnUS)
 
 ### Usage
 
